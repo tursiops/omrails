@@ -1,5 +1,7 @@
 == README
 
+My comments are here: jaap
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 

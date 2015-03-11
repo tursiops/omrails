@@ -1,2 +1,15 @@
 @import 'bootstrap';
-body { padding-top: 55px; }
+
+body {
+	padding-top: 70px;
+  background: url('http://sprudge.com/wp-content/uploads/2014/08/Barcelona-Coffee-Satans_1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+p { color: white}
+h1 {
+	color: white;
+	font-size: 25px;
+}

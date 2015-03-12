@@ -2,14 +2,15 @@
 
 body {
 	padding-top: 70px;
-  background: url('http://sprudge.com/wp-content/uploads/2014/08/Barcelona-Coffee-Satans_1.jpg');
+  background-image: asset-data-url("BarcelonaCoffee1.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
 }
 
-p { color: white}
+p { color: White;
+	}
 h1 {
-	color: #fff;
+	color: White;
 	font-size: 25px;
 }

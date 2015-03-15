@@ -78,5 +78,5 @@ Rails.application.configure do
   config.active_record.dump_schema_after_migration = false
 
   # Change when we go live
-  config.action_mailer.default_url_options = { :host => 'aqueous-shore-2265.herokuapp.com' }
+  config.action_mailer.default_url_options = { :host => 'aqueous-shore-2265.herokuapp.com/' }
 end

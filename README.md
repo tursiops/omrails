@@ -1,6 +1,7 @@
 == README
 
-My comments are here: jaap
+My comments are here: jaap steenis
+Date 4 January 2016
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
